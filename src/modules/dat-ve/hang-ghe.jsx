@@ -14,7 +14,7 @@ class HangGhe extends Component {
         disable = true;
       }
 
-      //xét trạng tthasi ghế đang đặt
+      
       let cssGheDangDat = '';
       let indexGheDangDat = this.props.danhSachGheDangDat.findIndex(gheDangDat => gheDangDat.soGhe === ghe.soGhe);
       if(indexGheDangDat !== -1){

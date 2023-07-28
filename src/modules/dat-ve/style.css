@@ -27,7 +27,7 @@ body{
 }
 
 .rowNumber{
-    /* font-size: 25px; */
+    
     width: 35px;
     height: 35px;
     background: none;
@@ -84,7 +84,7 @@ body{
 .table th,
 .table td {
   background-color: transparent;
-  border: 2px solid #919191; /* Bạn có thể thay đổi màu viền theo ý muốn */
+  border: 2px solid #919191; 
   padding: 10px;
 }
 .btn-delete{
